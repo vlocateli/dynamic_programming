@@ -1,4 +1,9 @@
-# dynamic_programming
+# LCS (Longest common substring)
+
+Escreva um programa em Linguagem C que lê duas strings de tamanho até 1000 e determina
+a LCS entre elas.
+
+Write a program in C language, that reads two strings up to 1000 and determines the lcs between then.
 
 ## To execute
 
