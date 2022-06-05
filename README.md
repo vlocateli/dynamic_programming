@@ -1,9 +1,9 @@
 # dynamic_programming
 
-##To execute
+#To execute
 
-##Unix
-``console
+#Unix
+```console
 gcc -Wall -Wextra -Werror -pedantic -std=c11 -O2 -march=native  src/main.c -o lcs
 ``` 
 ``` 
