@@ -16,10 +16,14 @@ make
 ```
 
 ## Windows
-using WSL/WSL2
+
+using WSL/WSL2 is the same as Unix
+
+Using MinGW
 ```console
 gcc -Wall -Wextra -Werror -pedantic -std=c11 -O2 -march=native  src/main.c -o lcs.exe
 ```
+To run
 ```
 ./lcs.exe <string_1> <string_2>
 ``` 
