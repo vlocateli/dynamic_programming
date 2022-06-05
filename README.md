@@ -1,8 +1,8 @@
 # dynamic_programming
 
-#To execute
+## To execute
 
-#Unix
+## Unix
 ```console
 gcc -Wall -Wextra -Werror -pedantic -std=c11 -O2 -march=native  src/main.c -o lcs
 ``` 
@@ -15,5 +15,13 @@ make
 ./lcs <string_1> <string_2>
 ```
 
-##Windows
+## Windows
+using WSL/WSL2
+```console
+gcc -Wall -Wextra -Werror -pedantic -std=c11 -O2 -march=native  src/main.c -o lcs.exe
+```
+```
+./lcs.exe <string_1> <string_2>
+``` 
+
 
